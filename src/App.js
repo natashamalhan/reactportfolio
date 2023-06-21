@@ -23,9 +23,9 @@ function App() {
     <center><p>My name is Natasha Malhan, I'm a current CS Student with UW Bootcamp, </p></center>
   </div>
   <div className="w3-content w3-padding-large w3-margin-top" id="portfolio">
-    <img src="./assets/images/Screenshot 2023-06-07 at 6.01.55 PM.png" alt="notetaker" className="w3-image" width={1000} height={500} />
-    <img src="./assets/images/Screenshot 2023-06-21 at 12.21.55 PM (2).png" alt="password generator" className="w3-image w3-margin-top" width={1000} height={500} />
-    <img src="./assets/images/Screenshot 2023-06-21 at 12.25.40 PM (2).png" alt="forever veggies" width={1000} height={500} />
+    <img src={require("./Screenshot 2023-06-07 at 6.01.55 PM.png")} alt="notetaker" className="w3-image" width={1000} height={500} />
+    <img src={require("./Screenshot 2023-06-21 at 12.21.55 PM (2).png")} alt="password generator" className="w3-image w3-margin-top" width={1000} height={500} />
+    <img src={require("./Screenshot 2023-06-21 at 12.25.40 PM (2).png")} alt="forever veggies" width={1000} height={500} />
     <div className="w3-light-grey w3-padding-large w3-padding-32 w3-margin-top" id="contact">
       <h3 className="w3-center">Contact</h3>
       <hr />
