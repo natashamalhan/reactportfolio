@@ -19,7 +19,7 @@ npm run test
 ## License
 None
 ## Questions
-If you have any questions, please contact me at tashamalhan@gmail.com. 
+If you have any questions, please contact me at tashamalhan@gmail.com. You can also check out the website here: https://natashamalhan.github.io/reactportfolio/
 
 <img width="1440" alt="Screenshot 2023-06-23 at 2 11 55 PM" src="https://github.com/natashamalhan/reactportfolio/assets/43355493/e52098a7-1910-44e5-9612-45eda0c9f4d9">
 <img width="1440" alt="Screenshot 2023-06-23 at 2 12 01 PM" src="https://github.com/natashamalhan/reactportfolio/assets/43355493/4f49f842-22d0-4a0a-bc72-ae75515cec45">
